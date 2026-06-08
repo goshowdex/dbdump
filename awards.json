@@ -1,0 +1,53 @@
+{
+  "awards": [
+    {
+      "country": 1,
+      "name": "National Film Awards",
+      "id": 2,
+      "category": "Best Actress in a Leading Role",
+      "target": ""
+    },
+    {
+      "country": 1,
+      "name": "Kerala State Film Awards",
+      "id": 4,
+      "category": "Best Actor",
+      "target": ""
+    },
+    {
+      "country": 1,
+      "name": "Kerala State Film Awards",
+      "id": 5,
+      "category": "Best Director",
+      "target": ""
+    },
+    {
+      "country": 1,
+      "name": "National Film Awards",
+      "id": 1,
+      "category": "Best Actor in a Leading Role",
+      "target": ""
+    },
+    {
+      "country": 1,
+      "name": "National Film Awards",
+      "id": 3,
+      "category": "Best Music Direction",
+      "target": ""
+    },
+    {
+      "country": 1,
+      "name": "National Film Awards",
+      "id": 6,
+      "category": "Best Director",
+      "target": ""
+    },
+    {
+      "country": 1,
+      "name": "Kerala State Film Awards",
+      "id": 7,
+      "category": "Best Actress",
+      "target": ""
+    }
+  ]
+}

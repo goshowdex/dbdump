@@ -1,0 +1,69 @@
+{
+  "crew_role": [
+    {
+      "name": "Directed by",
+      "noun": "Director",
+      "id": 1
+    },
+    {
+      "name": "Produced by",
+      "noun": "Producer",
+      "id": 2
+    },
+    {
+      "name": "Music by",
+      "noun": "Music",
+      "id": 3
+    },
+    {
+      "name": "Assistant Director(s)",
+      "noun": "Assistant Director",
+      "id": 4
+    },
+    {
+      "name": "Art Direction by",
+      "noun": "Art Director",
+      "id": 5
+    },
+    {
+      "name": "Edited by",
+      "noun": "Editor",
+      "id": 6
+    },
+    {
+      "name": "Costume Design by",
+      "noun": "Costume Designer",
+      "id": 7
+    },
+    {
+      "name": "Cinematography",
+      "noun": "Cinematographer",
+      "id": 8
+    },
+    {
+      "name": "Executive Producer(s)",
+      "noun": "Executive Producer",
+      "id": 9
+    },
+    {
+      "name": "Story by",
+      "noun": "Story",
+      "id": 10
+    },
+    {
+      "name": "Screenplay by",
+      "noun": "Screenplay",
+      "id": 12
+    },
+    {
+      "name": "Background Score by",
+      "noun": "Background Score",
+      "id": 13
+    },
+    {
+      "name": "Written by",
+      "noun": "Writer",
+      "id": 14
+    }
+  ]
+}

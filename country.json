@@ -1,0 +1,16 @@
+{
+  "country": [
+    {
+      "name": "India",
+      "id": 1
+    },
+    {
+      "name": "United States",
+      "id": 2
+    },
+    {
+      "name": "Global",
+      "id": 3
+    }
+  ]
+}

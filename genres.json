@@ -1,0 +1,76 @@
+{
+  "genres": [
+    {
+      "name": "Sci-Fi",
+      "id": 1
+    },
+    {
+      "name": "Action",
+      "id": 2
+    },
+    {
+      "name": "Drama",
+      "id": 3
+    },
+    {
+      "name": "Comedy",
+      "id": 4
+    },
+    {
+      "name": "Crime",
+      "id": 5
+    },
+    {
+      "name": "Thriller",
+      "id": 6
+    },
+    {
+      "name": "Mystery",
+      "id": 7
+    },
+    {
+      "name": "Romance",
+      "id": 8
+    },
+    {
+      "name": "Fantasy",
+      "id": 9
+    },
+    {
+      "name": "Horror",
+      "id": 10
+    },
+    {
+      "name": "Family",
+      "id": 11
+    },
+    {
+      "name": "Adventure",
+      "id": 12
+    },
+    {
+      "name": "Musical",
+      "id": 13
+    },
+    {
+      "name": "War",
+      "id": 14
+    },
+    {
+      "name": "Suspense",
+      "id": 15
+    },
+    {
+      "name": "Animated",
+      "id": 16
+    },
+    {
+      "name": "Spy",
+      "id": 17
+    },
+    {
+      "name": "History",
+      "id": 18
+    }
+  ]
+}

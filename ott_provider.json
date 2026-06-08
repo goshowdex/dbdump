@@ -1,0 +1,24 @@
+{
+  "ott_provider": [
+    {
+      "name": "Netflix",
+      "id": 1
+    },
+    {
+      "name": "Amazon Prime",
+      "id": 2
+    },
+    {
+      "name": "Jio Hotstar",
+      "id": 3
+    },
+    {
+      "name": "Youtube",
+      "id": 4
+    },
+    {
+      "name": "Sun NXT",
+      "id": 5
+    }
+  ]
+}
